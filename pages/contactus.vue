@@ -1,8 +1,8 @@
 <template>
-    <v-container fluid>
-      <v-row justify="center" style="margin-left: 430px;">
-        <v-col cols="12" md="8" lg="6">
-          <h1 class="text-center mb-5">Contact Us</h1>
+   <v-container class="fill-height">
+    <v-row justify="center" align-="center">
+      <v-col cols="12" md="8">
+          <h1 class="text-center mb-5 white--text">Contact Us</h1>
 
           <v-card style="margin-top: 20px;">
             <v-card-text>
